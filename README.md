@@ -33,7 +33,7 @@ Files needed: iwxDAQ API form https://iworx.com/research/iworx-api/
 - In MATLAB
     1) Run the command : mex -setup c.
         - Follow the MATLAB instructions if any (you need a C compiler)
-    2) Set SETTINGS_FILE_NAME in script to %SETTINGS_FILE_NAME%
+    2) Set SETTINGS_FILE_NAME in iWorxDAQ.m script to %SETTINGS_FILE_NAME%
     3) Ensure that the iwxDAQ folder ( including x32 and x64 subfolders) are in the same folder as this script
     4) Run script.
     5) Enjoy the magic of iwxDAQ!
